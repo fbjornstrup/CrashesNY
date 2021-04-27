@@ -1,10 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-[![Crashes](https://youtu.be/UWH9iXJsgEs.jpg)](https://youtu.be/UWH9iXJsgEs)
-
-
-
+![New York Boroughs](nygif.gif)
 <video src="NYvideo" width="320" height="200" controls preload></video>
 
 
