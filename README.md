@@ -1,5 +1,4 @@
-github:
-  is_project_page: false
+
   
 ## Crashes in New York City
 
