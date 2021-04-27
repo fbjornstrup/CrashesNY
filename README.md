@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-![New York Boroughs](nygif.gif)
+![New York Boroughs](ny2.gif)
 <video src="NYvideo" width="320" height="200" controls preload></video>
 
 
