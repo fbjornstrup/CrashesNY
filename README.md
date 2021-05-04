@@ -7,7 +7,7 @@
 ![New York Boroughs](ny2.gif)
 
 
-HEJ 
+
 
 **Map showing occurences of crashes** 
 
